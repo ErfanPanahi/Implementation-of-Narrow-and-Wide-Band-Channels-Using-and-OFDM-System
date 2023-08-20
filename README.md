@@ -1,0 +1,2 @@
+# Implementation-of-Narrow-and-Wide-Band-Channels-Using-and-OFDM-System
+In this repository, we delve into the implementation of narrowband and wideband channels. In the narrowband channel section, we implement the narrowband channel and by examining various modulations, we aim to reduce the error probability based on SNR. In another section, by designing an OFDM system, we are seeking to implement a wideband channel.
