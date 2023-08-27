@@ -1,4 +1,4 @@
-![image](https://github.com/ErfanPanahi/Implementation-of-Narrow-and-Wide-Band-Channels-Using-and-OFDM-System/assets/107314081/126003fa-8094-4cc5-a040-d65d24c08f68)# Implementation-of-Narrow-and-Wide-Band-Channels-Using-and-OFDM-System
+# Implementation-of-Narrow-and-Wide-Band-Channels-Using-and-OFDM-System
 In this repository, we delve into the implementation of narrowband and wideband channels. In the narrowband channel section, we implement the narrowband channel and by examining various modulations, we aim to reduce the error probability based on SNR. In another section, by designing an OFDM system, we are seeking to implement a wideband channel.
 
 The purpose of performing this exercise is to become familiar with the effects of a channel on the received signal (fade effect) at the receiver and its impact on the system's error probability. To this end, various solutions used to mitigate these effects are examined in different parts of the project.
